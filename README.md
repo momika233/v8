@@ -38,3 +38,4 @@ Contributing
 
 Please follow the instructions mentioned at
 [v8.dev/docs/contribute](https://v8.dev/docs/contribute).
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/momika233/v8?utm_source=oss&utm_medium=github&utm_campaign=momika233%2Fv8&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
